@@ -1,6 +1,9 @@
 'sources': [
 	{
 		'name': 'Chrome',
+		'company': 'Google',
+		'type': 'Web Browser',
+		'url': 'https://www.google.com/chrome/',
 		'sources': [
 			{
 				'name': 'Bookmarks',
