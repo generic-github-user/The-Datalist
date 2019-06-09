@@ -1,0 +1,25 @@
+'sources': [
+	{
+		'name': 'Chrome',
+		'sources': [
+			{
+				'name': 'Bookmarks',
+				'type': 'Tree',
+				'stored': 'Local',
+				'exportable': true
+			},
+			{
+				'name': 'Extensions',
+				'type': 'Other',
+				'stored': 'Local',
+				'exportable': false
+			},
+			{
+				'name': 'Settings',
+				'type': 'Other',
+				'stored': 'Local',
+				'exportable': false
+			}
+		]
+	}
+]
